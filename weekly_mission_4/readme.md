@@ -1,4 +1,4 @@
-# 📚 Repositorios Misión Backend(NodeJs)| Semana 4| 1. Refactoring
+# 📚 Repositorios Misión Backend(NodeJs)| Semana 4| Lista de Proyectos
 
 Proyectos desarrollados en la semana 4:
 
